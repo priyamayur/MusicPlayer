@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="EngSong1">7 years</string>
+    <string name="EngSong2">Keeping Your Head Up</string>
+    <string name="EngSong3">Caught Out In The Rain</string>
+    <string name="EngSong4">Dancing On My Own</string>
+    <string name="EngSong5">Chop Suey</string>
+    <string name="EngSong6">You Spin My Head</string>
+    <string name="EngSong7">Gotten</string>
+    <string name="EngSong8">Ink</string>
+    <string name="EngSong9">Born To Die</string>
+    <string name="EngSong10">Young and Beautiful</string>
+
+    <string name="EngSongDur1">4:26</string>
+    <string name="EngSongDur2">3:35</string>
+    <string name="EngSongDur3">7:13</string>
+    <string name="EngSongDur4">3:40</string>
+    <string name="EngSongDur5">3:23</string>
+    <string name="EngSongDur6">4:00</string>
+    <string name="EngSongDur7">5:02</string>
+    <string name="EngSongDur8">3:48</string>
+    <string name="EngSongDur9">4:46</string>
+    <string name="EngSongDur10">3:56</string>
+
+
+    <string name="HindiSong1">Aazadiyan</string>
+    <string name="HindiSong2">Bezubaan</string>
+    <string name="HindiSong3">Der Lagi Lekin</string>
+    <string name="HindiSong4">Dil Chahta Hai</string>
+    <string name="HindiSong5">In Dino Dil Mera</string>
+    <string name="HindiSong6">Jo Bhi Main</string>
+    <string name="HindiSong7">Kaari Kaari</string>
+    <string name="HindiSong8">Kar Salaam</string>
+    <string name="HindiSong9">Pataka Guddi</string>
+    <string name="HindiSong10">Ud-da Punjab</string>
+
+    <string name="HindiSongDur1">5:39</string>
+    <string name="HindiSongDur2">5:40</string>
+    <string name="HindiSongDur3">5:57</string>
+    <string name="HindiSongDur4">5:14</string>
+    <string name="HindiSongDur5">6:41</string>
+    <string name="HindiSongDur6">4:36</string>
+    <string name="HindiSongDur7">6:27</string>
+    <string name="HindiSongDur8">3:57</string>
+    <string name="HindiSongDur9">4:45</string>
+    <string name="HindiSongDur10">4:34</string>
+
+    <string name="BengSong1">O Maajhi Re</string>
+    <string name="BengSong2">Amar Mawte</string>
+    <string name="BengSong3">Bhindeshi Tara</string>
+    <string name="BengSong4">Phiriye Dewar Gaan</string>
+    <string name="BengSong5">Benche Thakar Gaan</string>
+    <string name="BengSong6">Shesh Belay</string>
+    <string name="BengSong7">Tumi Jake Bhalobhasho</string>
+    <string name="BengSong8">The Bong Connection</string>
+    <string name="BengSong9">Shudhu Tumi Ele Na</string>
+    <string name="BengSong10">Onno Keu Thakbe</string>
+
+    <string name="BengSongDur1">5:26</string>
+    <string name="BengSongDur2">5:30</string>
+    <string name="BengSongDur3">5:08</string>
+    <string name="BengSongDur4">5:52</string>
+    <string name="BengSongDur5">4:13</string>
+    <string name="BengSongDur6">3:22</string>
+    <string name="BengSongDur7">4:56</string>
+    <string name="BengSongDur8">3:55</string>
+    <string name="BengSongDur9">4:06</string>
+    <string name="BengSongDur10">4:08</string>
+
+    <string name="beng">bengali</string>
+    <string name="hindi">hindi</string>
+    <string name="english">english</string>
+
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="previous">previous</string>
+
+<string name="next">next</string>
+
+</resources>
